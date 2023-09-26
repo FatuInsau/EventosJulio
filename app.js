@@ -22,7 +22,7 @@ let $h1 = document.querySelector('h1');
 let $boton = document.getElementById('boton');
 
 function cambiarColor () {
-    $h1.classList.toggle('rojo');
+    $h1.classList.toggle('verde');
 };
 
 $boton.addEventListener('click', cambiarColor);
