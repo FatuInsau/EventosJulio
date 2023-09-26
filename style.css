@@ -1,0 +1,24 @@
+#caja {
+    background-color: rgb(140, 201, 148);
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.lugar {
+    background-color: rgb(184, 232, 191);
+    box-shadow: 2px 2px 12px 0px #116114;
+    padding: 0px 15px;
+    border-radius: 5px;
+    margin: 10px;
+    width: 400px;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.verde {
+    background-color: green;
+}
